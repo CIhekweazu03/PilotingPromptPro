@@ -28,7 +28,7 @@ class PilotingPromptPro:
         
         1. Analyze the user's request to understand their goal
         2. Determine if clarifying questions are needed to create an optimized prompt
-        3. If clarification is needed, ask 1-2 specific questions that would most improve the prompt
+        3. If clarification is needed, ask 1-2 specific questions that would most improve the prompt. Things like asking for location when mentioning opening up a new business or other things that would help you understand the user's goal better. 
         4. If no clarification is needed, proceed to generate an optimized prompt
         
         DO NOT generate the optimized prompt yet. Only determine if clarification is needed.
